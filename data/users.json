@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Nika Aptsiauri",
+    "username": "nikaapt",
+    "email": "nika@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Ana Lomidze",
+    "username": "ana_l",
+    "email": "ana@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Giorgi Beridze",
+    "username": "gberidze",
+    "email": "giorgi@example.com"
+  }
+]
